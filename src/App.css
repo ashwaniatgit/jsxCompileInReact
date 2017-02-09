@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font: Arial;
+}
+
+header {
+  display: block;
+  height: 10vh;
+  overflow: auto;
+  background: #323330;
+  color: #f5da55;
+  font-size: 20px;
+}
+
+ .container{
+  height: 95vh;
+  display: flex;
+ }
+
+ textarea{
+  background-color: #fbf4d0;
+ }
+ pre {
+  background-color: #fdfaeb;
+ }
+ pre, textarea {
+  width: 50%;
+  font-family: arial;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+  color: #222;
+
+ }
+ /* This is developed by ashwani yadav
+ and you are free to use this code any where you want */
